@@ -86,3 +86,14 @@ Este projeto demonstra minha capacidade de:
 
 ### Análise por Categoria
 ![Categorias](./imagens/imagem03_categorias.png)
+
+## Python (EDA e Tratamento)
+
+- Notebook: [`notebooks/analise_exploratoria.ipynb`](notebooks/analise_exploratoria.ipynb)
+- Saída gerada: `dados/processed/base_logistica.csv`
+
+### Insights (Python)
+- Correlação tempo de entrega x nota: **-0,35**
+- Nota média sem atraso: **4,29**
+- Nota média com atraso: **2,56**
+- Nota 1⭐: **~20,5 dias** vs Nota 5⭐: **~10,2 dias**
