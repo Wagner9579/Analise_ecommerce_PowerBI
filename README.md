@@ -75,3 +75,14 @@ Este projeto demonstra minha capacidade de:
 - Construção de métricas em DAX
 - Análise exploratória
 - Construção de dashboards estratégicos
+
+## Dashboard
+
+### Visão Geral (Financeiro)
+![Visão Geral](./imagens/imagem01_visao_geral.png)
+
+### Logística & Satisfação
+![Logística](./imagens/imagem02_logistica.png)
+
+### Análise por Categoria
+![Categorias](./imagens/imagem03_categorias.png)
