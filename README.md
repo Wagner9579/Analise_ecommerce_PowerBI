@@ -85,7 +85,7 @@ Este projeto demonstra minha capacidade de:
 - Correlação tempo de entrega x nota: **-0,35**
 - Nota média sem atraso: **4,29**
 - Nota média com atraso: **2,56**
-- Nota 1⭐: **~20,5 dias** vs Nota 5⭐: **~10,2 dias**
+- Nota 1: **~20,5 dias** vs Nota 5: **~10,2 dias**
 
 
 ## Dashboard
